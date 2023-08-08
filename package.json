@@ -9,7 +9,6 @@
   "author": "Pravigya Jain",
   "license": "ISC",
   "dependencies": {
-    "nyc": "^15.1.0",
     "unique-random-array": "^3.0.0"
   },
   "type": "module",
